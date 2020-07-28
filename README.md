@@ -4,7 +4,7 @@ You can do one thing with this program: download files from URL that are in a ve
 Each line of the file is in the following form: [ "id";"timestamp";"array_of_URL" ]:
 - the timestamp doesn't get used, so you can also use [ "id";;"array_of_URL" ];
 - array_of_URL is a string in which two URLs are separeted by a ';';
-- there must be no other ; in the line except the ones i've said above;
+- there must be no other ';' in the line except the ones i've said above;
 
 In order to use the program, you must either:
 - change your filename to "data.csv" and run the .exe;
